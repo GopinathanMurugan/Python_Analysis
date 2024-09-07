@@ -54,6 +54,7 @@ The primary objective of this project is to:
 ![newplot (10)](https://github.com/user-attachments/assets/1361c1af-f2b5-4c56-a289-f81a62b2c030)
 ![newplot (11)](https://github.com/user-attachments/assets/61b21c5b-318b-47aa-bcae-bae0e6dca2c4)
 ![download](https://github.com/user-attachments/assets/b5251346-a06b-4cc1-9c0e-be9db1c91a8d)
+![Screenshot (4)](https://github.com/user-attachments/assets/4857a2cf-d94a-4d2e-933d-0ee00eb9e2e7)
 
 ## Results
 - **Best Model**: CatBoost showed the highest accuracy of 98.93%.
