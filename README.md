@@ -41,8 +41,9 @@ The primary objective of this project is to:
 ![download](https://github.com/user-attachments/assets/d0f43209-c0ba-48f9-a498-c82123398fd8)
 ![download](https://github.com/user-attachments/assets/e5befe73-8cbd-429d-97b5-787fb15903b5)
 ![download](https://github.com/user-attachments/assets/ba9e94f9-2f57-45f2-a708-a86fa4b102f5)
-
-
+![newplot (9)](https://github.com/user-attachments/assets/6d45e592-c880-4606-b27e-18dd1e88fb6e)
+![newplot (8)](https://github.com/user-attachments/assets/95435b2d-499f-48ff-b34d-e36b57ef3a34)
+![newplot (7)](https://github.com/user-attachments/assets/da80a206-93d8-4b44-bccf-7611ca527188)
 
 ## Data Analysis
 - **Descriptive Statistics**: Mean, median, and standard deviation of features.
