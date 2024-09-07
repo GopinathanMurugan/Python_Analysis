@@ -38,6 +38,11 @@ The primary objective of this project is to:
 - **Label Encoding**: Categorical variables (crop types) converted into numerical values.
 - **Data Standardization**: Standardizing features like nitrogen, temperature, and humidity.
 - **Data Splitting**: Data split into training (70%) and testing (30%) sets.
+![download](https://github.com/user-attachments/assets/d0f43209-c0ba-48f9-a498-c82123398fd8)
+![download](https://github.com/user-attachments/assets/e5befe73-8cbd-429d-97b5-787fb15903b5)
+![download](https://github.com/user-attachments/assets/ba9e94f9-2f57-45f2-a708-a86fa4b102f5)
+
+
 
 ## Data Analysis
 - **Descriptive Statistics**: Mean, median, and standard deviation of features.
@@ -45,6 +50,9 @@ The primary objective of this project is to:
 - **Correlation Analysis**: Scatter plots and correlation matrices to explore relationships between variables.
 - **Feature Importance**: Identifying key factors that impact crop prediction using models.
 - **Model Performance**: Evaluation using metrics like accuracy, precision, and recall.
+
+  
+![download](https://github.com/user-attachments/assets/b5251346-a06b-4cc1-9c0e-be9db1c91a8d)
 
 ## Results
 - **Best Model**: CatBoost showed the highest accuracy of 98.93%.
