@@ -41,9 +41,7 @@ The primary objective of this project is to:
 ![download](https://github.com/user-attachments/assets/d0f43209-c0ba-48f9-a498-c82123398fd8)
 ![download](https://github.com/user-attachments/assets/e5befe73-8cbd-429d-97b5-787fb15903b5)
 ![download](https://github.com/user-attachments/assets/ba9e94f9-2f57-45f2-a708-a86fa4b102f5)
-![newplot (9)](https://github.com/user-attachments/assets/6d45e592-c880-4606-b27e-18dd1e88fb6e)
-![newplot (8)](https://github.com/user-attachments/assets/95435b2d-499f-48ff-b34d-e36b57ef3a34)
-![newplot (7)](https://github.com/user-attachments/assets/da80a206-93d8-4b44-bccf-7611ca527188)
+
 
 ## Data Analysis
 - **Descriptive Statistics**: Mean, median, and standard deviation of features.
@@ -54,7 +52,9 @@ The primary objective of this project is to:
 ![newplot (12)](https://github.com/user-attachments/assets/83ef6aab-7b92-4c25-857c-77cfd5692156)
 ![newplot (10)](https://github.com/user-attachments/assets/1361c1af-f2b5-4c56-a289-f81a62b2c030)
 ![newplot (11)](https://github.com/user-attachments/assets/61b21c5b-318b-47aa-bcae-bae0e6dca2c4)
-![download](https://github.com/user-attachments/assets/b5251346-a06b-4cc1-9c0e-be9db1c91a8d)
+![newplot (9)](https://github.com/user-attachments/assets/6d45e592-c880-4606-b27e-18dd1e88fb6e)
+![newplot (8)](https://github.com/user-attachments/assets/95435b2d-499f-48ff-b34d-e36b57ef3a34)
+![newplot (7)](https://github.com/user-attachments/assets/da80a206-93d8-4b44-bccf-7611ca527188)
 ![Screenshot (4)](https://github.com/user-attachments/assets/4857a2cf-d94a-4d2e-933d-0ee00eb9e2e7)
 
 ## Results
