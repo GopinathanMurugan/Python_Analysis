@@ -40,6 +40,7 @@ The primary objective of this project is to:
 - **Data Splitting**: Data split into training (70%) and testing (30%) sets.
 ![download](https://github.com/user-attachments/assets/d0f43209-c0ba-48f9-a498-c82123398fd8)
 ![download](https://github.com/user-attachments/assets/e5befe73-8cbd-429d-97b5-787fb15903b5)
+  -Count Plot
 ![download](https://github.com/user-attachments/assets/ba9e94f9-2f57-45f2-a708-a86fa4b102f5)
 
 
