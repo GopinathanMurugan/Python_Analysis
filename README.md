@@ -50,8 +50,9 @@ The primary objective of this project is to:
 - **Correlation Analysis**: Scatter plots and correlation matrices to explore relationships between variables.
 - **Feature Importance**: Identifying key factors that impact crop prediction using models.
 - **Model Performance**: Evaluation using metrics like accuracy, precision, and recall.
-
-  
+![newplot (12)](https://github.com/user-attachments/assets/83ef6aab-7b92-4c25-857c-77cfd5692156)
+![newplot (10)](https://github.com/user-attachments/assets/1361c1af-f2b5-4c56-a289-f81a62b2c030)
+![newplot (11)](https://github.com/user-attachments/assets/61b21c5b-318b-47aa-bcae-bae0e6dca2c4)
 ![download](https://github.com/user-attachments/assets/b5251346-a06b-4cc1-9c0e-be9db1c91a8d)
 
 ## Results
