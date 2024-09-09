@@ -1,4 +1,3 @@
-
 # Crop Recommendation System Using Machine Learning
 
 This project is focused on building a machine learning-based system that recommends suitable crops to farmers based on environmental and soil parameters. The system aims to enhance agricultural productivity by optimizing crop selection through data-driven decision-making.
